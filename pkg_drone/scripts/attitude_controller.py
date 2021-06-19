@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-
-# Made by  Team ID - VD_0142
+#!/usr/bin/env python3
 
 # Importing the required libraries
 import tf
