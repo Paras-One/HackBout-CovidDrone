@@ -1,9 +1,9 @@
 import numpy as np
 import cv2
 # Create our body classifier
-body_classifier = cv2.CascadeClassifier('C:/Users/jai gupta/Desktop/Rakshak Drone/haarcascade_fullbody.xml')
+body_classifier = cv2.CascadeClassifier('C:/Users/paras/Desktop/Rakshak Drone/haarcascade_fullbody.xml')
 # Initiate video capture for video file
-cap = cv2.VideoCapture("C:/Users/jai gupta/Desktop/Rakshak Drone/Pedestrians Dataset.mp4")
+cap = cv2.VideoCapture("C:/Users/paras/Desktop/Rakshak Drone/Pedestrians Dataset.mp4")
 # Loop once video is successfully loaded
 while True:
     
